@@ -7,7 +7,6 @@ import os
 
 from homework.queries import run
 
-
 def test_01():
     """Test the homework."""
 
